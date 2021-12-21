@@ -1,2 +1,2 @@
 # ThinkJulia
-Intro Level Programming in Julia
+Messing around in Julia
